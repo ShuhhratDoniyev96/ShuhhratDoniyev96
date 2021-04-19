@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShuhhratDoniyev96
+- 👋 Hi, I’m @ShuhratDoniyev96
 - 👀 I’m interested in C/C++ and C# Programming languages in the some way Arduino
 - 🌱 I’m currently learning C# WPF
 - 💞️ I’m looking to collaborate on 
